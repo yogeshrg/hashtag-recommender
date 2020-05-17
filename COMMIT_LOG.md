@@ -278,3 +278,4 @@
 ## 2020-01-11 21:26:38 - feat(metric): implement metric feature (18/20)
 ## 2020-01-18 12:56:34 - feat(auth): create auth handler (14/20)
 ## 2020-02-08 13:10:25 - feat(security): implement security feature (1/20)
+## 2020-05-17 11:59:01 - feat(data): add data endpoint (2/20)
