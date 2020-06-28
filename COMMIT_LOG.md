@@ -5,3 +5,4 @@
 ## 2020-05-17 11:59:01 - feat(data): add data endpoint (2/20)
 ## 2020-06-06 12:29:30 - feat(api): implement api module (18/20)
 ## 2020-06-27 10:41:45 - feat(ci): create ci handler (11/20)
+## 2020-06-28 10:07:05 - feat(test): implement test feature (14/20)
