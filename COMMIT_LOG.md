@@ -7,3 +7,4 @@
 ## 2020-06-27 10:41:45 - feat(ci): create ci handler (11/20)
 ## 2020-06-28 10:07:05 - feat(test): implement test feature (14/20)
 ## 2020-07-26 16:10:38 - feat(test): implement test feature (8/20)
+## 2020-08-16 16:20:42 - feat(db): add db endpoint (15/20)
