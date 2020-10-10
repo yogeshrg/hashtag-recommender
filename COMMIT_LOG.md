@@ -287,3 +287,4 @@
 ## 2020-08-23 10:11:46 - feat(ui): implement ui module (20/20)
 ## 2020-09-27 23:50:31 - feat(ui): implement ui module (1/20)
 ## 2020-10-03 23:39:26 - feat(cache): implement cache feature (3/20)
+## 2020-10-10 13:28:01 - feat(model): implement model feature (18/20)
