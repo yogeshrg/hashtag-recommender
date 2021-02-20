@@ -290,3 +290,4 @@
 ## 2020-10-10 13:28:01 - feat(model): implement model feature (18/20)
 ## 2020-10-25 23:26:24 - feat(ci): add ci endpoint (4/20)
 ## 2020-11-21 13:57:35 - feat(core): implement core feature (5/20)
+## 2021-02-20 20:27:02 - feat(log): add log support (10/20)
