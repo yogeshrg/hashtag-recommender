@@ -295,3 +295,4 @@
 ## 2021-03-28 20:12:29 - feat(cache): create cache handler (17/20)
 ## 2021-04-10 22:45:36 - feat(model): create model handler (2/20)
 ## 2021-10-24 15:24:08 - feat(monitor): create monitor handler (2/20)
+## 2021-10-30 22:59:13 - feat(infra): create infra handler (15/20)
