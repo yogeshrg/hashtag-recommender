@@ -23,3 +23,4 @@
 ## 2022-02-27 09:08:25 - feat(metric): add metric endpoint (1/20)
 ## 2022-04-05 18:14:32 - feat(infra): implement infra feature
 ## 2022-04-10 21:37:18 - feat(test): create test handler (7/20)
+## 2022-05-08 16:50:05 - feat(test): add test support (1/20)
