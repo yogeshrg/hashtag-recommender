@@ -209,3 +209,4 @@
 ## 2022-04-10 21:37:18 - feat(test): create test handler (7/20)
 ## 2022-05-08 16:50:05 - feat(test): add test support (1/20)
 ## 2022-05-21 18:44:31 - feat(infra): add infra endpoint (3/20)
+## 2022-06-04 19:53:39 - feat(ui): add ui endpoint (5/20)
