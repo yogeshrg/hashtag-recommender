@@ -119,3 +119,4 @@
 ## 2022-05-21 18:44:31 - feat(infra): add infra endpoint (3/20)
 ## 2022-06-04 19:53:39 - feat(ui): add ui endpoint (5/20)
 ## 2022-06-12 20:37:59 - feat(cache): create cache handler (18/20)
+## 2022-06-18 11:33:22 - feat(alert): add alert endpoint (14/20)
