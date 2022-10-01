@@ -215,3 +215,4 @@
 ## 2022-06-19 20:59:40 - feat(test): add test endpoint (3/20)
 ## 2022-06-26 16:51:33 - feat(cache): implement cache feature (5/20)
 ## 2022-08-14 12:40:09 - feat(core): implement core feature (12/20)
+## 2022-10-01 18:13:44 - feat(metric): add metric endpoint (20/20)
