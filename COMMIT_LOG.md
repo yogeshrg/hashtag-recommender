@@ -308,3 +308,4 @@
 ## 2022-06-26 16:51:33 - feat(cache): implement cache feature (5/20)
 ## 2022-08-14 12:40:09 - feat(core): implement core feature (12/20)
 ## 2022-10-01 18:13:44 - feat(metric): add metric endpoint (20/20)
+## 2022-10-15 12:14:50 - feat(data): implement data feature (12/20)
