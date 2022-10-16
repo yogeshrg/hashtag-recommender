@@ -309,3 +309,4 @@
 ## 2022-08-14 12:40:09 - feat(core): implement core feature (12/20)
 ## 2022-10-01 18:13:44 - feat(metric): add metric endpoint (20/20)
 ## 2022-10-15 12:14:50 - feat(data): implement data feature (12/20)
+## 2022-10-16 20:15:56 - feat(test): add test support (9/20)
