@@ -126,3 +126,4 @@
 ## 2022-10-01 18:13:44 - feat(metric): add metric endpoint (20/20)
 ## 2022-10-15 12:14:50 - feat(data): implement data feature (12/20)
 ## 2022-10-16 20:15:56 - feat(test): add test support (9/20)
+## 2022-11-05 21:23:04 - feat(api): implement api feature (3/20)
