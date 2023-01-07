@@ -219,3 +219,4 @@
 ## 2022-10-15 12:14:50 - feat(data): implement data feature (12/20)
 ## 2022-10-16 20:15:56 - feat(test): add test support (9/20)
 ## 2022-11-05 21:23:04 - feat(api): implement api feature (3/20)
+## 2023-01-07 18:24:04 - feat(deploy): implement deploy feature (6/20)
