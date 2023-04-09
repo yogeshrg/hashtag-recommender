@@ -40,3 +40,4 @@
 ## 2023-02-04 16:20:41 - feat(ci): implement ci feature (13/20)
 ## 2023-03-18 17:30:51 - feat(db): add db endpoint (15/20)
 ## 2023-04-08 13:03:18 - feat(log): implement log module (5/20)
+## 2023-04-09 11:15:51 - feat(api): implement api module (3/20)
