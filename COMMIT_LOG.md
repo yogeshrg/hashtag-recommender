@@ -318,3 +318,4 @@
 ## 2023-04-08 13:03:18 - feat(log): implement log module (5/20)
 ## 2023-04-09 11:15:51 - feat(api): implement api module (3/20)
 ## 2023-05-21 23:55:02 - feat(alert): implement alert module (18/20)
+## 2023-06-10 16:39:24 - feat(auth): add auth support (4/20)
