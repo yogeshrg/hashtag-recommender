@@ -324,3 +324,4 @@
 ## 2023-09-16 19:58:28 - feat(model): create model handler (6/20)
 ## 2023-10-01 14:06:07 - feat(core): implement core feature (17/20)
 ## 2023-10-01 18:10:21 - feat(db): implement db feature (7/20)
+## 2023-10-30 14:04:42 - feat(api): add api support
