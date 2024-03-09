@@ -144,3 +144,4 @@
 ## 2023-11-19 14:45:12 - feat(build): create build handler (9/20)
 ## 2024-02-04 09:53:47 - feat(model): implement model feature (15/20)
 ## 2024-03-09 12:52:43 - feat(metric): add metric support (5/20)
+## 2024-03-09 19:29:46 - feat(core): implement core module (18/20)
