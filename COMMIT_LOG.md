@@ -238,3 +238,4 @@
 ## 2024-03-09 12:52:43 - feat(metric): add metric support (5/20)
 ## 2024-03-09 19:29:46 - feat(core): implement core module (18/20)
 ## 2024-05-04 22:33:33 - feat(queue): implement queue feature (16/20)
+## 2024-05-11 17:47:27 - feat(security): add security support (13/20)
