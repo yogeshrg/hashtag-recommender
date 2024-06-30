@@ -58,3 +58,4 @@
 ## 2024-06-01 17:48:51 - feat(db): implement db module (11/20)
 ## 2024-06-09 22:27:52 - feat(metric): implement metric feature (10/20)
 ## 2024-06-29 15:36:06 - feat(monitor): add monitor endpoint (10/20)
+## 2024-06-30 12:02:09 - feat(auth): implement auth module (6/20)
