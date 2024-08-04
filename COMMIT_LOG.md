@@ -152,3 +152,4 @@
 ## 2024-06-29 15:36:06 - feat(monitor): add monitor endpoint (10/20)
 ## 2024-06-30 12:02:09 - feat(auth): implement auth module (6/20)
 ## 2024-07-28 23:41:09 - feat(monitor): create monitor handler (10/20)
+## 2024-08-04 21:44:55 - feat(security): add security support (16/20)
