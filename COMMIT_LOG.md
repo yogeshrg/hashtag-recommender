@@ -161,3 +161,4 @@
 ## 2025-01-26 10:27:17 - feat(metric): add metric support (14/20)
 ## 2025-02-02 23:50:11 - feat(auth): implement auth feature (13/20)
 ## 2025-03-02 15:24:06 - feat(data): implement data module (10/20)
+## 2025-03-02 16:29:18 - feat(metric): add metric endpoint (2/20)
