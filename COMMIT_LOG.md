@@ -72,3 +72,4 @@
 ## 2025-03-02 16:29:18 - feat(metric): add metric endpoint (2/20)
 ## 2025-04-05 14:50:12 - feat(data): add data support (9/20)
 ## 2025-04-05 17:24:17 - feat(infra): create infra handler (3/20)
+## 2025-06-29 16:48:13 - feat(log): create log handler (15/20)
