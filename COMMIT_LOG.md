@@ -273,3 +273,4 @@
 ## 2026-07-11 17:23:49 - feat(worker): create worker handler (17/20)
 ## 2026-07-18 17:34:28 - feat(auth): create auth handler (6/20)
 ## 2026-08-30 13:53:57 - feat(infra): create infra handler (3/20)
+## 2026-09-05 18:47:42 - feat(infra): add infra support (12/20)
